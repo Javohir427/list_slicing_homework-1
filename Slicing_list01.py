@@ -8,4 +8,4 @@ def main(numbers):
     """
     a = numbers[::2]
     return a
-print(main([1, 2, 3, 4, 5]))
+print(main([0, 1, 2, 3, 4, 5]))
